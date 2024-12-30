@@ -1,8 +1,10 @@
-# Ignore all
+# Ignore all.
 * 
-# Don't ignore files in subfolders
+# Don't ignore files in subfolders.
 !*/
-
 !.gitignore
 
-!config/*
+# Don't ignore config files and folders two layers deep. 
+!config/**
+!config/*/**
+
