@@ -1,0 +1,353 @@
+###################################################################
+###################################################################
+###################################################################
+###################################################################
+###################################################################
+###################################################################
+###################################################################
+10:57 AM
+Retries: 2/5 Probed points range: 0.005625 tolerance: 0.007500
+10:57 AM
+Making the following Z adjustments:
+stepper_z = -0.006627
+stepper_z1 = 0.000215
+stepper_z2 = 0.002763
+10:57 AM
+probe at 270.000,5.000 is z=-1.738584
+10:57 AM
+probe at 270.000,5.000 is z=-1.739209
+10:57 AM
+probe at 270.000,5.000 is z=-1.740459
+10:57 AM
+probe at 150.000,245.000 is z=-1.742334
+10:57 AM
+probe at 150.000,245.000 is z=-1.740459
+10:57 AM
+probe at 150.000,245.000 is z=-1.739209
+10:57 AM
+probe at 30.000,5.000 is z=-1.744834
+10:57 AM
+probe at 30.000,5.000 is z=-1.744834
+10:57 AM
+probe at 30.000,5.000 is z=-1.744209
+10:57 AM
+Retries: 1/5 Probed points range: 0.018750 tolerance: 0.007500
+10:57 AM
+Making the following Z adjustments:
+stepper_z = 0.020503
+stepper_z1 = -0.007666
+stepper_z2 = -0.006595
+10:57 AM
+probe at 270.000,5.000 is z=-1.740594
+10:56 AM
+probe at 270.000,5.000 is z=-1.740594
+10:56 AM
+probe at 270.000,5.000 is z=-1.741844
+10:56 AM
+probe at 150.000,245.000 is z=-1.743719
+10:56 AM
+probe at 150.000,245.000 is z=-1.743094
+10:56 AM
+probe at 150.000,245.000 is z=-1.742469
+10:56 AM
+probe at 30.000,5.000 is z=-1.724969
+10:56 AM
+probe at 30.000,5.000 is z=-1.724344
+10:56 AM
+probe at 30.000,5.000 is z=-1.724344
+10:56 AM
+Retries: 0/5 Probed points range: 0.032500 tolerance: 0.007500
+10:56 AM
+Making the following Z adjustments:
+stepper_z = 0.018094
+stepper_z1 = 0.034028
+stepper_z2 = 0.072276
+10:56 AM
+probe at 270.000,5.000 is z=-1.677500
+10:56 AM
+probe at 270.000,5.000 is z=-1.678125
+10:56 AM
+probe at 270.000,5.000 is z=-1.679375
+10:56 AM
+probe at 150.000,245.000 is z=-1.703750
+10:56 AM
+probe at 150.000,245.000 is z=-1.702500
+10:56 AM
+probe at 150.000,245.000 is z=-1.701250
+10:56 AM
+probe at 30.000,5.000 is z=-1.710000
+10:56 AM
+probe at 30.000,5.000 is z=-1.710625
+10:56 AM
+probe at 30.000,5.000 is z=-1.711875
+10:55 AM
+G32: Z Tilt...
+###################################################################
+9:12 AM
+Retries: 5/5 Probed points range: 0.000625 tolerance: 0.007500
+9:12 AM
+Making the following Z adjustments:
+stepper_z = -0.002508
+stepper_z1 = -0.002429
+stepper_z2 = -0.001477
+9:12 AM
+probe at 270.000,5.000 is z=-1.741660
+9:12 AM
+probe at 270.000,5.000 is z=-1.741660
+9:12 AM
+probe at 270.000,5.000 is z=-1.742285
+9:12 AM
+probe at 150.000,245.000 is z=-1.744785
+9:12 AM
+probe at 150.000,245.000 is z=-1.742285
+9:12 AM
+probe at 150.000,245.000 is z=-1.741035
+9:11 AM
+probe at 30.000,5.000 is z=-1.741660
+9:11 AM
+probe at 30.000,5.000 is z=-1.742285
+9:11 AM
+probe at 30.000,5.000 is z=-1.742285
+9:11 AM
+Retries: 4/5 Probed points range: 0.028750 tolerance: 0.007500
+9:11 AM
+Making the following Z adjustments:
+stepper_z = 0.017923
+stepper_z1 = 0.031766
+stepper_z2 = -0.010215
+9:11 AM
+probe at 270.000,5.000 is z=-1.745058
+9:11 AM
+probe at 270.000,5.000 is z=-1.745683
+9:11 AM
+probe at 270.000,5.000 is z=-1.745683
+9:11 AM
+probe at 150.000,245.000 is z=-1.718808
+9:11 AM
+probe at 150.000,245.000 is z=-1.716308
+9:11 AM
+probe at 150.000,245.000 is z=-1.716933
+9:11 AM
+probe at 30.000,5.000 is z=-1.729433
+9:11 AM
+probe at 30.000,5.000 is z=-1.728808
+9:11 AM
+probe at 30.000,5.000 is z=-1.728808
+9:11 AM
+Retries: 3/5 Probed points range: 0.040000 tolerance: 0.007500
+9:11 AM
+Making the following Z adjustments:
+stepper_z = -0.028315
+stepper_z1 = -0.066192
+stepper_z2 = -0.009570
+9:11 AM
+probe at 270.000,5.000 is z=-1.752072
+9:11 AM
+probe at 270.000,5.000 is z=-1.751447
+9:11 AM
+probe at 270.000,5.000 is z=-1.751447
+9:11 AM
+probe at 150.000,245.000 is z=-1.792072
+9:10 AM
+probe at 150.000,245.000 is z=-1.791447
+9:10 AM
+probe at 150.000,245.000 is z=-1.788947
+9:10 AM
+Probe samples exceed tolerance. Retrying...
+9:10 AM
+probe at 150.000,245.000 is z=-1.787072
+9:10 AM
+probe at 150.000,245.000 is z=-1.777697
+9:10 AM
+Probe samples exceed tolerance. Retrying...
+9:10 AM
+probe at 150.000,245.000 is z=-1.777697
+9:10 AM
+probe at 150.000,245.000 is z=-1.768322
+9:10 AM
+probe at 30.000,5.000 is z=-1.762697
+9:10 AM
+probe at 30.000,5.000 is z=-1.759572
+9:10 AM
+probe at 30.000,5.000 is z=-1.763322
+9:10 AM
+Probe samples exceed tolerance. Retrying...
+9:10 AM
+probe at 30.000,5.000 is z=-1.733947
+9:10 AM
+probe at 30.000,5.000 is z=-1.703947
+9:10 AM
+probe at 30.000,5.000 is z=-1.698322
+9:10 AM
+Probe samples exceed tolerance. Retrying...
+9:10 AM
+probe at 30.000,5.000 is z=-1.718947
+9:10 AM
+probe at 30.000,5.000 is z=-1.727072
+9:10 AM
+Retries: 2/5 Probed points range: 0.033125 tolerance: 0.007500
+9:10 AM
+Making the following Z adjustments:
+stepper_z = -0.028553
+stepper_z1 = -0.024682
+stepper_z2 = 0.025631
+9:10 AM
+probe at 270.000,5.000 is z=-1.726171
+9:10 AM
+probe at 270.000,5.000 is z=-1.724296
+9:10 AM
+probe at 270.000,5.000 is z=-1.724296
+9:10 AM
+probe at 150.000,245.000 is z=-1.761796
+9:10 AM
+probe at 150.000,245.000 is z=-1.757421
+9:10 AM
+probe at 150.000,245.000 is z=-1.757421
+9:10 AM
+Probe samples exceed tolerance. Retrying...
+9:10 AM
+probe at 150.000,245.000 is z=-1.755546
+9:10 AM
+probe at 150.000,245.000 is z=-1.749296
+9:09 AM
+probe at 30.000,5.000 is z=-1.754921
+9:09 AM
+probe at 30.000,5.000 is z=-1.756796
+9:09 AM
+probe at 30.000,5.000 is z=-1.756796
+9:09 AM
+Retries: 1/5 Probed points range: 0.061875 tolerance: 0.007500
+9:09 AM
+Making the following Z adjustments:
+stepper_z = 0.063606
+stepper_z1 = -0.028829
+stepper_z2 = -0.020758
+9:09 AM
+probe at 270.000,5.000 is z=-1.741907
+9:09 AM
+probe at 270.000,5.000 is z=-1.742532
+9:09 AM
+probe at 270.000,5.000 is z=-1.740657
+9:09 AM
+probe at 150.000,245.000 is z=-1.753782
+9:09 AM
+probe at 150.000,245.000 is z=-1.753157
+9:09 AM
+probe at 150.000,245.000 is z=-1.749407
+9:09 AM
+probe at 30.000,5.000 is z=-1.692532
+9:09 AM
+probe at 30.000,5.000 is z=-1.691282
+9:09 AM
+probe at 30.000,5.000 is z=-1.691282
+9:09 AM
+Retries: 0/5 Probed points range: 0.142500 tolerance: 0.007500
+9:09 AM
+Making the following Z adjustments:
+stepper_z = 0.025572
+stepper_z1 = -0.161843
+stepper_z2 = 0.034927
+9:09 AM
+probe at 270.000,5.000 is z=-1.699375
+9:09 AM
+probe at 270.000,5.000 is z=-1.699375
+9:09 AM
+probe at 270.000,5.000 is z=-1.701250
+9:09 AM
+probe at 150.000,245.000 is z=-1.843750
+9:09 AM
+probe at 150.000,245.000 is z=-1.841875
+9:08 AM
+probe at 150.000,245.000 is z=-1.838750
+9:08 AM
+probe at 30.000,5.000 is z=-1.703750
+9:08 AM
+probe at 30.000,5.000 is z=-1.705000
+9:08 AM
+probe at 30.000,5.000 is z=-1.706250
+9:08 AM
+Probe samples exceed tolerance. Retrying...
+9:08 AM
+probe at 30.000,5.000 is z=-1.710000
+9:08 AM
+probe at 30.000,5.000 is z=-1.716250
+9:08 AM
+G32: Z Tilt...
+############################################
+8:23 AM
+Retries: 2/5 Probed points range: 0.001875 tolerance: 0.007500
+8:23 AM
+Making the following Z adjustments:
+stepper_z = -0.000864
+stepper_z1 = -0.002485
+stepper_z2 = 0.000167
+8:23 AM
+probe at 270.000,5.000 is z=-1.738695
+8:23 AM
+probe at 270.000,5.000 is z=-1.739945
+8:23 AM
+probe at 270.000,5.000 is z=-1.743695
+8:23 AM
+probe at 150.000,245.000 is z=-1.743070
+8:23 AM
+probe at 150.000,245.000 is z=-1.741820
+8:22 AM
+probe at 150.000,245.000 is z=-1.738070
+8:22 AM
+probe at 30.000,5.000 is z=-1.740570
+8:22 AM
+probe at 30.000,5.000 is z=-1.740570
+8:22 AM
+probe at 30.000,5.000 is z=-1.742445
+8:22 AM
+Retries: 1/5 Probed points range: 0.023750 tolerance: 0.007500
+8:22 AM
+Making the following Z adjustments:
+stepper_z = 0.025578
+stepper_z1 = -0.010355
+stepper_z2 = -0.011930
+8:22 AM
+probe at 270.000,5.000 is z=-1.741867
+8:22 AM
+probe at 270.000,5.000 is z=-1.743742
+8:22 AM
+probe at 270.000,5.000 is z=-1.746867
+8:22 AM
+probe at 150.000,245.000 is z=-1.747492
+8:22 AM
+probe at 150.000,245.000 is z=-1.744992
+8:22 AM
+probe at 150.000,245.000 is z=-1.741867
+8:22 AM
+probe at 30.000,5.000 is z=-1.721242
+8:22 AM
+probe at 30.000,5.000 is z=-1.721242
+8:22 AM
+probe at 30.000,5.000 is z=-1.723117
+8:22 AM
+Retries: 0/5 Probed points range: 0.021875 tolerance: 0.007500
+8:22 AM
+Making the following Z adjustments:
+stepper_z = -0.018133
+stepper_z1 = 0.014959
+stepper_z2 = 0.016249
+8:22 AM
+probe at 270.000,5.000 is z=-1.730000
+8:22 AM
+probe at 270.000,5.000 is z=-1.731250
+8:22 AM
+probe at 270.000,5.000 is z=-1.733750
+8:21 AM
+probe at 150.000,245.000 is z=-1.731875
+8:21 AM
+probe at 150.000,245.000 is z=-1.730000
+8:21 AM
+probe at 150.000,245.000 is z=-1.726250
+8:21 AM
+probe at 30.000,5.000 is z=-1.750625
+8:21 AM
+probe at 30.000,5.000 is z=-1.751875
+8:21 AM
+probe at 30.000,5.000 is z=-1.756250
+G32: Z Tilt...
+############################################
