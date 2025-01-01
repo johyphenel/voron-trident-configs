@@ -7,4 +7,6 @@
 # Don't ignore config files and folders two layers deep. 
 !config/**
 !config/*/**
+!OrcaSlicer/**
+!OrcaSlicer/*/**
 
