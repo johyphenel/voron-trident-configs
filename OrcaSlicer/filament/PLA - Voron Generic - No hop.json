@@ -1,0 +1,13 @@
+{
+    "filament_settings_id": [
+        "PLA - Voron Generic - No hop"
+    ],
+    "filament_z_hop": [
+        "0"
+    ],
+    "from": "User",
+    "inherits": "Voron Generic PLA",
+    "is_custom_defined": "0",
+    "name": "PLA - Voron Generic - No hop",
+    "version": "2.2.0.4"
+}
