@@ -29,6 +29,9 @@
     "filament_vendor": [
         "KVP"
     ],
+    "filament_z_hop": [
+        "0"
+    ],
     "from": "User",
     "hot_plate_temp": [
         "115"
