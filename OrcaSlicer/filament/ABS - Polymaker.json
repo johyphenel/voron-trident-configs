@@ -26,6 +26,9 @@
     "filament_settings_id": [
         "ABS - Polymaker"
     ],
+    "filament_z_hop": [
+        "0"
+    ],
     "from": "User",
     "inherits": "Voron Generic ASA",
     "is_custom_defined": "0",

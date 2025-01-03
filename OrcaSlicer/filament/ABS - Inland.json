@@ -23,6 +23,9 @@
     "filament_vendor": [
         "Inland"
     ],
+    "filament_z_hop": [
+        "0"
+    ],
     "from": "User",
     "inherits": "Voron Generic ABS",
     "is_custom_defined": "0",

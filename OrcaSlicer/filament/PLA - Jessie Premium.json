@@ -1,4 +1,7 @@
 {
+    "enable_pressure_advance": [
+        "1"
+    ],
     "filament_settings_id": [
         "PLA - Voron Generic - No hop"
     ],
@@ -9,5 +12,8 @@
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
     "name": "PLA - Voron Generic - No hop",
+    "pressure_advance": [
+        "0.06"
+    ],
     "version": "2.2.0.4"
 }
