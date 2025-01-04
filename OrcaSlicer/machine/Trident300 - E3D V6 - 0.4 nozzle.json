@@ -3,9 +3,16 @@
     "inherits": "Voron Trident 300 0.4 nozzle",
     "is_custom_defined": "0",
     "machine_start_gcode": "M104 S0 ; Stops PS/SS from sending temp waits separately\nM140 S0\nPRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n;;\n; M190 S[bed_temperature_initial_layer_single]\n; M109 S[nozzle_temperature_initial_layer]\n; PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n;; You can use following code instead if your PRINT_START macro support Chamber and print area bedmesh\n;; PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] Chamber=[chamber_temperature] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]}",
-    "name": "Voron Trident 300 0.4 nozzle - Custom",
+    "name": "Trident300 - E3D V6 - 0.4 nozzle",
+    "nozzle_volume": "11",
     "print_host": "192.168.50.253",
-    "printer_settings_id": "Voron Trident 300 0.4 nozzle - Custom",
+    "printer_settings_id": "Trident300 - E3D V6 - 0.4 nozzle",
+    "retract_lift_above": [
+        "0.25"
+    ],
     "support_multi_bed_types": "1",
-    "version": "2.2.0.4"
+    "version": "2.2.0.4",
+    "z_hop": [
+        "0.2"
+    ]
 }
