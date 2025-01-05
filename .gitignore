@@ -9,4 +9,6 @@
 !config/*/**
 !OrcaSlicer/**
 !OrcaSlicer/*/**
+!resonance/**
+!resonance/*/**
 
