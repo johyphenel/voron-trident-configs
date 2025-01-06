@@ -2,18 +2,36 @@
     "enable_pressure_advance": [
         "1"
     ],
-    "filament_settings_id": [
-        "PLA - Voron Generic - No hop"
+    "filament_flow_ratio": [
+        "0.99"
     ],
-    "filament_z_hop": [
-        "0"
+    "filament_max_volumetric_speed": [
+        "11"
+    ],
+    "filament_settings_id": [
+        "PLA - Jessie Premium"
+    ],
+    "filament_vendor": [
+        "Printed Solid Jessie PLA"
     ],
     "from": "User",
+    "hot_plate_temp": [
+        "70"
+    ],
+    "hot_plate_temp_initial_layer": [
+        "70"
+    ],
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA - Voron Generic - No hop",
+    "name": "PLA - Jessie Premium",
     "pressure_advance": [
-        "0.06"
+        "0.055"
+    ],
+    "textured_plate_temp": [
+        "70"
+    ],
+    "textured_plate_temp_initial_layer": [
+        "70"
     ],
     "version": "2.2.0.4"
 }
