@@ -1,5 +1,6 @@
 # Ignore all.
-* 
+*
+
 # Don't ignore files in subfolders.
 !*/
 !.gitignore
@@ -10,3 +11,4 @@
 !OrcaSlicer/**
 !OrcaSlicer/*/**
 
+OrcaSlicer/*/TODO/*
