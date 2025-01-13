@@ -10,5 +10,7 @@
 !config/*/**
 !OrcaSlicer/**
 !OrcaSlicer/*/**
+!resonance/**
+!resonance/*/**
 
 OrcaSlicer/*/TODO/*
