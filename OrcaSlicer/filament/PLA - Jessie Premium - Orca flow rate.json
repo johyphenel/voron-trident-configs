@@ -2,17 +2,14 @@
     "enable_pressure_advance": [
         "1"
     ],
-    "fan_cooling_layer_time": [
-        "0"
-    ],
     "filament_flow_ratio": [
         "0.99"
     ],
     "filament_max_volumetric_speed": [
-        "15"
+        "200"
     ],
     "filament_settings_id": [
-        "PLA - Jessie Premium - Ellis - EM tuning"
+        "PLA - Jessie Premium - Orca flow rate"
     ],
     "filament_vendor": [
         "Printed Solid Jessie PLA"
@@ -26,9 +23,9 @@
     ],
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA - Jessie Premium - Ellis - EM tuning",
+    "name": "PLA - Jessie Premium - Orca flow rate",
     "pressure_advance": [
-        "0.06"
+        "0.055"
     ],
     "slow_down_for_layer_cooling": [
         "0"

@@ -1,5 +1,6 @@
 # Ignore all.
-* 
+*
+
 # Don't ignore files in subfolders.
 !*/
 !.gitignore
@@ -12,3 +13,4 @@
 !resonance/**
 !resonance/*/**
 
+OrcaSlicer/*/TODO/*

@@ -1,10 +1,4 @@
 {
-    "enable_pressure_advance": [
-        "1"
-    ],
-    "fan_cooling_layer_time": [
-        "0"
-    ],
     "filament_flow_ratio": [
         "0.99"
     ],
@@ -12,7 +6,7 @@
         "15"
     ],
     "filament_settings_id": [
-        "PLA - Jessie Premium - Ellis - EM tuning"
+        "PLA - Jessie Premium - Tuning - Ringing Tower"
     ],
     "filament_vendor": [
         "Printed Solid Jessie PLA"
@@ -26,9 +20,9 @@
     ],
     "inherits": "Voron Generic PLA",
     "is_custom_defined": "0",
-    "name": "PLA - Jessie Premium - Ellis - EM tuning",
+    "name": "PLA - Jessie Premium - Tuning - Ringing Tower",
     "pressure_advance": [
-        "0.06"
+        "0.055"
     ],
     "slow_down_for_layer_cooling": [
         "0"
