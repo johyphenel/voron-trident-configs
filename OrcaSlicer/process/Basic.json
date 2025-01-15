@@ -1,6 +1,5 @@
 {
     "accel_to_decel_enable": "0",
-    "bottom_shell_layers": "2",
     "bottom_surface_pattern": "monotonicline",
     "bridge_acceleration": "1000",
     "bridge_density": "50%",
@@ -10,7 +9,7 @@
     "brim_type": "no_brim",
     "compatible_printers": [],
     "default_acceleration": "4000",
-    "elefant_foot_compensation": "0.25",
+    "elefant_foot_compensation": "0.18",
     "enable_arc_fitting": "1",
     "ensure_vertical_shell_thickness": "none",
     "filename_format": "{plate_name} - {filament_type[0]} - {print_time}.gcode",
@@ -47,7 +46,7 @@
     "print_settings_id": "Basic",
     "reduce_infill_retraction": "0",
     "resolution": "0.01",
-    "seam_gap": "15%",
+    "seam_gap": "4%",
     "seam_position": "back",
     "skirt_distance": "10",
     "skirt_loops": "1",
@@ -62,7 +61,7 @@
     "support_line_width": "100%",
     "support_speed": "120",
     "top_bottom_infill_wall_overlap": "20%",
-    "top_shell_layers": "2",
+    "top_shell_layers": "3",
     "top_shell_thickness": "0",
     "top_surface_acceleration": "1000",
     "top_surface_jerk": "5",
@@ -71,9 +70,7 @@
     "travel_acceleration": "10000",
     "travel_speed": "450",
     "version": "2.0.2.0",
-    "wall_generator": "classic",
     "wall_loops": "2",
-    "wall_sequence": "outer wall/inner wall",
     "wipe_before_external_loop": "1",
     "wipe_on_loops": "1"
 }
