@@ -15,9 +15,6 @@
         "Printed Solid Jessie PLA"
     ],
     "from": "User",
-    "hot_plate_temp": [
-        "70"
-    ],
     "hot_plate_temp_initial_layer": [
         "70"
     ],
@@ -25,7 +22,7 @@
     "is_custom_defined": "0",
     "name": "PLA - Jessie Premium",
     "pressure_advance": [
-        "0.055"
+        "0.024"
     ],
     "textured_plate_temp": [
         "70"
