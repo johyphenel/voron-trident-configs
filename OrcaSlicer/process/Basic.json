@@ -27,7 +27,7 @@
     "inner_wall_line_width": "115%",
     "inner_wall_speed": "150",
     "internal_bridge_speed": "150%",
-    "internal_solid_infill_acceleration": "5000",
+    "internal_solid_infill_acceleration": "4800",
     "internal_solid_infill_line_width": "140%",
     "internal_solid_infill_pattern": "monotonicline",
     "is_custom_defined": "0",
@@ -53,7 +53,7 @@
     "skirt_start_angle": "-155",
     "small_area_infill_flow_compensation": "1",
     "small_perimeter_speed": "30",
-    "sparse_infill_acceleration": "7000",
+    "sparse_infill_acceleration": "4800",
     "sparse_infill_density": "20%",
     "sparse_infill_line_width": "160%",
     "sparse_infill_pattern": "cubic",
@@ -70,7 +70,7 @@
     "travel_acceleration": "10000",
     "travel_speed": "450",
     "version": "2.0.2.0",
-    "wall_loops": "2",
+    "wall_sequence": "outer wall/inner wall",
     "wipe_before_external_loop": "1",
     "wipe_on_loops": "1"
 }

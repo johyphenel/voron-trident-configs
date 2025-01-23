@@ -72,7 +72,6 @@
     "travel_jerk": "20",
     "travel_speed": "500",
     "version": "2.0.2.0",
-    "wall_loops": "2",
     "wipe_before_external_loop": "1",
     "wipe_on_loops": "1"
 }
