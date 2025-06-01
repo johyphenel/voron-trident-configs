@@ -50,13 +50,13 @@
     "seam_position": "back",
     "skirt_distance": "10",
     "skirt_loops": "1",
-    "skirt_start_angle": "-155",
+    "skirt_start_angle": "-90",
     "small_area_infill_flow_compensation": "1",
     "small_perimeter_speed": "30",
     "sparse_infill_acceleration": "4800",
     "sparse_infill_density": "20%",
     "sparse_infill_line_width": "160%",
-    "sparse_infill_pattern": "cubic",
+    "sparse_infill_pattern": "grid",
     "sparse_infill_speed": "300",
     "support_line_width": "100%",
     "support_speed": "120",
@@ -70,7 +70,6 @@
     "travel_acceleration": "10000",
     "travel_speed": "450",
     "version": "2.0.2.0",
-    "wall_sequence": "outer wall/inner wall",
     "wipe_before_external_loop": "1",
     "wipe_on_loops": "1"
 }
