@@ -39,6 +39,7 @@
     "overhang_3_4_speed": "64",
     "overhang_4_4_speed": "60",
     "precise_outer_wall": "1",
+    "print_order": "as_obj_list",
     "print_settings_id": "Tuning - Ellis - Extrusion Multiplier - 0.20mm",
     "reduce_crossing_wall": "1",
     "reduce_infill_retraction": "0",
