@@ -1,8 +1,13 @@
 {
+    "change_filament_gcode": "PAUSE UNLOAD=True",
+    "cooling_tube_length": "0",
+    "cooling_tube_retraction": "0",
     "deretraction_speed": [
         "25"
     ],
     "emit_machine_limits_to_gcode": "0",
+    "enable_filament_ramming": "0",
+    "extra_loading_move": "0",
     "from": "User",
     "inherits": "Voron Trident 300 0.4 nozzle",
     "is_custom_defined": "0",
@@ -64,9 +69,12 @@
         "12"
     ],
     "machine_start_gcode": "M104 S0 ; Stops PS/SS from sending temp waits separately\nM140 S0\nSET_PRINT_STATS_INFO TOTAL_LAYER=[total_layer_count] ; for pause at / after layer\nPRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] CHAMBER=[chamber_temperature] \n\n;;\n; M190 S[bed_temperature_initial_layer_single]\n; M109 S[nozzle_temperature_initial_layer]\n; PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single]\n;; You can use following code instead if your PRINT_START macro support Chamber and print area bedmesh\n;; PRINT_START EXTRUDER=[nozzle_temperature_initial_layer] BED=[bed_temperature_initial_layer_single] Chamber=[chamber_temperature] PRINT_MIN={first_layer_print_min[0]},{first_layer_print_min[1]} PRINT_MAX={first_layer_print_max[0]},{first_layer_print_max[1]}",
+    "manual_filament_change": "1",
     "name": "Trident300 - E3D V6 - 0.4 nozzle",
     "nozzle_type": "brass",
+    "parking_pos_retraction": "0",
     "print_host": "voron.th5",
+    "printable_height": "220",
     "printer_settings_id": "Trident300 - E3D V6 - 0.4 nozzle",
     "retract_lift_above": [
         "0.25"
