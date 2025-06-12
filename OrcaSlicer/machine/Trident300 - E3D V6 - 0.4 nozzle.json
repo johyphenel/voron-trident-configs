@@ -13,7 +13,7 @@
     "is_custom_defined": "0",
     "layer_change_gcode": ";AFTER_LAYER_CHANGE\n;[layer_z]\nSET_PRINT_STATS_INFO CURRENT_LAYER={layer_num + 1}",
     "machine_max_acceleration_e": [
-        "500",
+        "10000",
         "5000"
     ],
     "machine_max_acceleration_extruding": [

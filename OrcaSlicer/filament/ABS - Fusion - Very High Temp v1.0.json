@@ -64,10 +64,10 @@
         "30"
     ],
     "fan_max_speed": [
-        "50"
+        "65"
     ],
     "fan_min_speed": [
-        "50"
+        "65"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -109,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "7"
+        "16"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -239,7 +239,7 @@
         "240"
     ],
     "overhang_fan_speed": [
-        "95"
+        "65"
     ],
     "overhang_fan_threshold": [
         "25%"
@@ -248,7 +248,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.042"
+        "0.038"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
