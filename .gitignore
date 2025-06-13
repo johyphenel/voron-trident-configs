@@ -13,4 +13,6 @@
 !resonance/**
 !resonance/*/**
 
+# But actually ignore these.
+config/_my_setup_vars.cfg
 OrcaSlicer/*/TODO/*
