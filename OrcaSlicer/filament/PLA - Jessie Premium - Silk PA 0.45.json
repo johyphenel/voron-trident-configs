@@ -160,7 +160,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "PLA - Jessie Premium"
+        "PLA - Jessie Premium - Silk PA 0.45"
     ],
     "filament_shrink": [
         "100%"
@@ -225,7 +225,7 @@
         "-1"
     ],
     "is_custom_defined": "0",
-    "name": "PLA - Jessie Premium",
+    "name": "PLA - Jessie Premium - Silk PA 0.45",
     "nozzle_temperature": [
         "220"
     ],
@@ -248,7 +248,7 @@
         "0.4157"
     ],
     "pressure_advance": [
-        "0.024"
+        "0.045"
     ],
     "reduce_fan_stop_start_freq": [
         "1"

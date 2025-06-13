@@ -18,10 +18,10 @@
         "0"
     ],
     "additional_cooling_fan_speed": [
-        "70"
+        "0"
     ],
     "chamber_temperature": [
-        "28"
+        "58"
     ],
     "close_fan_the_first_x_layers": [
         "1"
@@ -34,10 +34,10 @@
         "70"
     ],
     "cool_plate_temp": [
-        "60"
+        "0"
     ],
     "cool_plate_temp_initial_layer": [
-        "60"
+        "0"
     ],
     "default_filament_colour": [
         ""
@@ -55,19 +55,19 @@
         "1"
     ],
     "eng_plate_temp": [
-        "60"
+        "100"
     ],
     "eng_plate_temp_initial_layer": [
-        "60"
+        "105"
     ],
     "fan_cooling_layer_time": [
-        "100"
+        "30"
     ],
     "fan_max_speed": [
-        "100"
+        "60"
     ],
     "fan_min_speed": [
-        "100"
+        "60"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -79,10 +79,10 @@
         "4"
     ],
     "filament_cost": [
-        "20"
+        "31"
     ],
     "filament_density": [
-        "1.24"
+        "1.03"
     ],
     "filament_deretraction_speed": [
         "nil"
@@ -94,7 +94,7 @@
         "; filament end gcode\n"
     ],
     "filament_flow_ratio": [
-        "0.99"
+        "1.007"
     ],
     "filament_is_support": [
         "0"
@@ -109,7 +109,7 @@
         "nil"
     ],
     "filament_max_volumetric_speed": [
-        "12"
+        "16"
     ],
     "filament_minimal_purge_on_wipe_tower": [
         "15"
@@ -124,7 +124,7 @@
         "10"
     ],
     "filament_notes": [
-        ""
+        "Halfway between 1.012 & 1.002. "
     ],
     "filament_ramming_parameters": [
         "120 100 6.6 6.8 7.2 7.6 7.9 8.2 8.7 9.4 9.9 10.0| 0.05 6.6 0.45 6.8 0.95 7.8 1.45 8.3 1.95 9.7 2.45 10 2.95 7.6 3.45 7.6 3.95 7.6 4.45 7.6 4.95 7.6"
@@ -160,7 +160,7 @@
         "nil"
     ],
     "filament_settings_id": [
-        "PLA - Jessie Premium"
+        "ABS - Fusion - Very High Temp v1.0"
     ],
     "filament_shrink": [
         "100%"
@@ -184,7 +184,7 @@
         "0"
     ],
     "filament_type": [
-        "PLA"
+        "ABS"
     ],
     "filament_unloading_speed": [
         "90"
@@ -193,7 +193,7 @@
         "100"
     ],
     "filament_vendor": [
-        "Printed Solid Jessie PLA"
+        "Fusion"
     ],
     "filament_wipe": [
         "nil"
@@ -212,70 +212,70 @@
         "0"
     ],
     "hot_plate_temp": [
-        "60"
+        "110"
     ],
     "hot_plate_temp_initial_layer": [
-        "70"
+        "110"
     ],
     "idle_temperature": [
         "0"
     ],
-    "inherits": "Voron Generic PLA",
+    "inherits": "Voron Generic ABS",
     "internal_bridge_fan_speed": [
         "-1"
     ],
     "is_custom_defined": "0",
-    "name": "PLA - Jessie Premium",
+    "name": "ABS - Fusion - Very High Temp v1.0",
     "nozzle_temperature": [
-        "220"
+        "285"
     ],
     "nozzle_temperature_initial_layer": [
-        "220"
+        "285"
     ],
     "nozzle_temperature_range_high": [
-        "240"
+        "290"
     ],
     "nozzle_temperature_range_low": [
-        "190"
+        "240"
     ],
     "overhang_fan_speed": [
-        "100"
+        "60"
     ],
     "overhang_fan_threshold": [
-        "50%"
+        "25%"
     ],
     "pellet_flow_coefficient": [
         "0.4157"
     ],
     "pressure_advance": [
-        "0.024"
+        "0.038"
     ],
     "reduce_fan_stop_start_freq": [
         "1"
     ],
     "required_nozzle_HRC": [
-        "0"
+        "3"
     ],
     "slow_down_for_layer_cooling": [
         "1"
     ],
     "slow_down_layer_time": [
-        "4"
+        "3"
     ],
     "slow_down_min_speed": [
         "10"
     ],
     "supertack_plate_temp": [
-        "35"
+        "0"
     ],
     "supertack_plate_temp_initial_layer": [
-        "35"
+        "0"
     ],
     "support_material_interface_fan_speed": [
         "-1"
     ],
     "temperature_vitrification": [
-        "45"
+        "110"
     ],
     "textured_cool_plate_temp": [
         "40"
@@ -284,10 +284,10 @@
         "40"
     ],
     "textured_plate_temp": [
-        "70"
+        "100"
     ],
     "textured_plate_temp_initial_layer": [
-        "70"
+        "105"
     ],
-    "version": "2.2.0.4"
+    "version": "2.0.2.0"
 }
