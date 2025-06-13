@@ -64,10 +64,10 @@
         "30"
     ],
     "fan_max_speed": [
-        "65"
+        "60"
     ],
     "fan_min_speed": [
-        "65"
+        "60"
     ],
     "filament_cooling_final_speed": [
         "3.4"
@@ -227,10 +227,10 @@
     "is_custom_defined": "0",
     "name": "ABS - Fusion - Very High Temp v1.0",
     "nozzle_temperature": [
-        "290"
+        "285"
     ],
     "nozzle_temperature_initial_layer": [
-        "290"
+        "285"
     ],
     "nozzle_temperature_range_high": [
         "290"
@@ -239,7 +239,7 @@
         "240"
     ],
     "overhang_fan_speed": [
-        "65"
+        "60"
     ],
     "overhang_fan_threshold": [
         "25%"
